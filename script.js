@@ -225,5 +225,5 @@ function resetFunc() {
   randomNumberDisplay.textContent = '?';
   scoreText.textContent = score;
 
-  highScoreText.textContent = highScore;
+  // highScoreText.textContent = highScore;
 }
